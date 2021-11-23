@@ -12,7 +12,7 @@ body {
 }
 
 .card {
-  background: #ffcccc;
+  background:#ffccff;
   border-radius: 4px;
   height: 85vh;
   width: 80vw;
@@ -31,7 +31,7 @@ body {
     flex-direction: row-reverse;
   }
   .card img.birthday {
-    width: 100%;
+    width: 80%;
     max-width: 50vw;
     max-height: unset;
   }
@@ -42,7 +42,7 @@ body {
     flex-direction: row-reverse;
   }
   .card img.birthday {
-    width: 100%;
+    width: 80%;
     max-width: 50vw;
     max-height: unset;
   }
